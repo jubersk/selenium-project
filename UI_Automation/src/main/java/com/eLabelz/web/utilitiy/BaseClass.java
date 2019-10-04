@@ -15,8 +15,13 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.openqa.selenium.support.ui.WebDriverWait;
+import org.testng.ITestResult;
+
 import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.ExtentTest;
+import com.aventstack.extentreports.Status;
+import com.aventstack.extentreports.markuputils.ExtentColor;
+import com.aventstack.extentreports.markuputils.MarkupHelper;
 import com.aventstack.extentreports.reporter.ExtentHtmlReporter;
 import com.aventstack.extentreports.reporter.configuration.Theme;
 
@@ -139,6 +144,44 @@ public class BaseClass {
 		String saltStr = salt.toString();
 		return saltStr;
 
+	}
+	
+	public String takeExtentScreenshot(WebDriver driver) throws IOException {		
+		TakesScreenshot ts = (TakesScreenshot)driver;		
+		//Taking screenshot
+		File Screenshot = ts.getScreenshotAs(OutputType.FILE);
+		//Creating the path to save the file
+		String destinationPath = System.getProperty("user.dir")+"\\Screenshots\\img_name.png";		
+		//creating destination file to save the screenshot
+		File destinationFile = new File(destinationPath);
+		//copying Screenshot to destination file
+		FileUtils.copyFile(Screenshot, destinationFile);
+		
+		return destinationPath;		
+	}
+	
+	public void tearDown(ITestResult result) throws Exception {
+
+		if (result.getStatus() == ITestResult.FAILURE) {
+
+			testLogger.log(Status.FAIL,
+					MarkupHelper.createLabel(result.getName() + " - Test Case FAILED", ExtentColor.RED));
+			
+			String screenShotLocation = takeExtentScreenshot(driver);			
+			
+			testLogger.fail("Test Case failed check screenshot below"+testLogger.addScreenCaptureFromPath(screenShotLocation));
+
+		} else if (result.getStatus() == ITestResult.SKIP) {
+
+			testLogger.log(Status.SKIP,
+					MarkupHelper.createLabel(result.getName() + " - Test Case SKIPPED", ExtentColor.YELLOW));
+
+		} else if (result.getStatus() == ITestResult.SUCCESS) {
+
+			testLogger.log(Status.PASS,
+					MarkupHelper.createLabel(result.getName() + " - Test Case PASSED", ExtentColor.GREEN));
+		}
+		driver.quit();
 	}
 	
 

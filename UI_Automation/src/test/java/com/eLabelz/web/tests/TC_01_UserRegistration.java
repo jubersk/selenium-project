@@ -85,8 +85,7 @@ public class TC_01_UserRegistration extends BaseClass{
 
 	}
 
-
-
+	
 	public static void fn_Registration(int iTestCaseRow)throws Exception{
 
 		driver.findElement(By.cssSelector(".login")).click();
@@ -96,6 +95,20 @@ public class TC_01_UserRegistration extends BaseClass{
 		Thread.sleep(2000);
 		//Assert Registraton page opned sucessfully
 		Assert.assertTrue(driver.findElement(By.cssSelector("#customer_firstname")).isDisplayed());
+
+		//Verify that verification code page is displayed
+		if(isElementPresent(driver,By.cssSelector("#customer_firstname"))){
+			Log.info("User Registration Page Launched Successfully");
+			Reporter.log("User Registration Page Launched Successfully");
+			testLogger.log(Status.PASS, "User Registration Page Launched Successfully");
+
+		}
+		else{
+			Log.info("User Registration Page Launching Failed");
+			Reporter.log("User Registration Page Launching Failed");
+			testLogger.log(Status.FAIL, "User Registration Page Launching Failed");
+			takeScreenshot(driver, "Registration");
+		}
 
 		driver.findElement(By.cssSelector("#id_gender1")).click();
 
@@ -141,7 +154,7 @@ public class TC_01_UserRegistration extends BaseClass{
 		if(isElementPresent(driver,By.cssSelector(".account"))){
 			Log.info("User Registration Completed Successfully");
 			Reporter.log("User Registration Completed Successfully");
-			testLogger.log(Status.PASS, "User Registration Completed Successfully");
+			testLogger.log(Status.FAIL, "User Registration Completed Successfully");
 
 		}
 		else{

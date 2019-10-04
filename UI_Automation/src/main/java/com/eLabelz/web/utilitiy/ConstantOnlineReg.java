@@ -8,12 +8,9 @@ public class ConstantOnlineReg {
 
 	static Path currentRelativePath = Paths.get("");
 	static String rootPath = currentRelativePath.toAbsolutePath().toString();
-
-	//private static String rootPath = UtilityClass.GetAppSetttingsByKey("s"); 
-
 	public static String Path_TestData = rootPath + "\\src\\main\\java\\testData\\";
 
-	public static String Path_ScreenShot = rootPath + "\\src\\main\\java\\com\\altayer\\web\\screenshots\\";
+	public static String Path_ScreenShot = rootPath + "\\src\\main\\java\\com\\eLabelz\\web\\screenshots\\";
 
 	public static final String File_TestData = "TestData.xlsx";
 
