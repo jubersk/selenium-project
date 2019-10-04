@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="UI Test Suite">
+
+	<test name="uitests">
+		<classes>
+			<class name="com.altayer.web.tests.TC_01_UserRegistration" />
+			<class name="com.altayer.web.tests.TC_02_UserLogin" />
+			
+		</classes>
+	</test>
+
+
+
+</suite>
