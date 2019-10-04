@@ -298,3 +298,354 @@ Session ID: 76fc0f0093407f1232a8edcc4a0854af
 2019-10-04 19:11:03,428 INFO  [Log] X 
 2019-10-04 19:11:03,428 INFO  [Log] X 
 2019-10-04 19:11:03,428 INFO  [Log] X 
+2019-10-04 21:10:26,453 INFO  [Log] **************************************************************************************** 
+2019-10-04 21:10:26,454 INFO  [Log] **************************************************************************************** 
+2019-10-04 21:10:26,454 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Test Case Name:TC_01_UserRegistration       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-10-04 21:10:26,454 INFO  [Log] **************************************************************************************** 
+2019-10-04 21:10:26,455 INFO  [Log] **************************************************************************************** 
+2019-10-04 21:10:27,264 INFO  [Log] Excel sheet opened 
+2019-10-04 21:10:27,264 INFO  [Log] Total number of Row used return as < 2 >. 
+2019-10-04 21:10:40,388 INFO  [Log] New driver instantiated 
+2019-10-04 21:10:41,646 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
+2019-10-04 21:10:50,856 INFO  [Log] Web application launched successfully 
+2019-10-04 21:10:50,909 INFO  [Log]  User Registration Tests started 
+2019-10-04 21:11:05,107 INFO  [Log] User Registration Sucess 
+2019-10-04 21:11:07,240 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2019-10-04 21:11:07,240 INFO  [Log] X 
+2019-10-04 21:11:07,241 INFO  [Log] X 
+2019-10-04 21:11:07,241 INFO  [Log] X 
+2019-10-04 21:11:07,241 INFO  [Log] X 
+2019-10-04 21:11:07,404 INFO  [Log] **************************************************************************************** 
+2019-10-04 21:11:07,405 INFO  [Log] **************************************************************************************** 
+2019-10-04 21:11:07,405 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Test Case Name:TC_02_UserLoginBuyProduct       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-10-04 21:11:07,405 INFO  [Log] **************************************************************************************** 
+2019-10-04 21:11:07,405 INFO  [Log] **************************************************************************************** 
+2019-10-04 21:11:07,462 INFO  [Log] Excel sheet opened 
+2019-10-04 21:11:07,462 INFO  [Log] Total number of Row used return as < 2 >. 
+2019-10-04 21:11:10,800 INFO  [Log] New driver instantiated 
+2019-10-04 21:11:11,948 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
+2019-10-04 21:11:19,306 INFO  [Log] Web application launched successfully 
+2019-10-04 21:11:19,307 INFO  [Log]   Login Test started::TC_02_UserLoginBuyProduct 
+2019-10-04 21:11:44,472 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2019-10-04 21:11:44,472 INFO  [Log] X 
+2019-10-04 21:11:44,472 INFO  [Log] X 
+2019-10-04 21:11:44,472 INFO  [Log] X 
+2019-10-04 21:11:44,472 INFO  [Log] X 
+2019-10-04 21:53:07,284 INFO  [Log] **************************************************************************************** 
+2019-10-04 21:53:07,285 INFO  [Log] **************************************************************************************** 
+2019-10-04 21:53:07,285 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Test Case Name:TC_01_UserRegistration       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-10-04 21:53:07,285 INFO  [Log] **************************************************************************************** 
+2019-10-04 21:53:07,285 INFO  [Log] **************************************************************************************** 
+2019-10-04 21:53:07,963 INFO  [Log] Excel sheet opened 
+2019-10-04 21:53:07,963 INFO  [Log] Total number of Row used return as < 2 >. 
+2019-10-04 21:53:12,624 INFO  [Log] New driver instantiated 
+2019-10-04 21:53:13,803 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
+2019-10-04 21:53:22,528 INFO  [Log] Web application launched successfully 
+2019-10-04 21:53:22,551 INFO  [Log]  User Registration Tests started 
+2019-10-04 21:53:32,813 INFO  [Log] User Registration Sucess 
+2019-10-04 21:53:33,391 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2019-10-04 21:53:33,391 INFO  [Log] X 
+2019-10-04 21:53:33,391 INFO  [Log] X 
+2019-10-04 21:53:33,391 INFO  [Log] X 
+2019-10-04 21:53:33,392 INFO  [Log] X 
+2019-10-04 21:56:02,805 INFO  [Log] **************************************************************************************** 
+2019-10-04 21:56:02,806 INFO  [Log] **************************************************************************************** 
+2019-10-04 21:56:02,806 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Test Case Name:TC_01_UserRegistration       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-10-04 21:56:02,806 INFO  [Log] **************************************************************************************** 
+2019-10-04 21:56:02,806 INFO  [Log] **************************************************************************************** 
+2019-10-04 21:56:03,451 INFO  [Log] Excel sheet opened 
+2019-10-04 21:56:03,452 INFO  [Log] Total number of Row used return as < 2 >. 
+2019-10-04 21:56:08,575 INFO  [Log] New driver instantiated 
+2019-10-04 21:56:09,725 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
+2019-10-04 21:56:16,835 INFO  [Log] Web application launched successfully 
+2019-10-04 22:01:36,673 INFO  [Log] **************************************************************************************** 
+2019-10-04 22:01:36,674 INFO  [Log] **************************************************************************************** 
+2019-10-04 22:01:36,674 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Test Case Name:TC_01_UserRegistration       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-10-04 22:01:36,674 INFO  [Log] **************************************************************************************** 
+2019-10-04 22:01:36,674 INFO  [Log] **************************************************************************************** 
+2019-10-04 22:01:37,513 INFO  [Log] Excel sheet opened 
+2019-10-04 22:01:37,514 INFO  [Log] Total number of Row used return as < 2 >. 
+2019-10-04 22:01:42,514 INFO  [Log] New driver instantiated 
+2019-10-04 22:01:43,659 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
+2019-10-04 22:02:21,658 INFO  [Log] Web application launched successfully 
+2019-10-04 22:02:21,699 INFO  [Log]  User Registration Tests started 
+2019-10-04 22:02:32,129 INFO  [Log] User Registration Sucess 
+2019-10-04 22:02:32,374 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2019-10-04 22:02:32,374 INFO  [Log] X 
+2019-10-04 22:02:32,374 INFO  [Log] X 
+2019-10-04 22:02:32,374 INFO  [Log] X 
+2019-10-04 22:02:32,374 INFO  [Log] X 
+2019-10-04 22:07:20,497 INFO  [Log] **************************************************************************************** 
+2019-10-04 22:07:20,497 INFO  [Log] **************************************************************************************** 
+2019-10-04 22:07:20,497 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Test Case Name:TC_01_UserRegistration       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-10-04 22:07:20,497 INFO  [Log] **************************************************************************************** 
+2019-10-04 22:07:20,498 INFO  [Log] **************************************************************************************** 
+2019-10-04 22:07:21,379 INFO  [Log] Excel sheet opened 
+2019-10-04 22:07:21,379 INFO  [Log] Total number of Row used return as < 2 >. 
+2019-10-04 22:07:27,022 INFO  [Log] New driver instantiated 
+2019-10-04 22:07:28,344 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
+2019-10-04 22:07:38,059 INFO  [Log] Web application launched successfully 
+2019-10-04 22:07:38,103 INFO  [Log]  User Registration Tests started 
+2019-10-04 22:07:49,142 INFO  [Log] User Registration Sucess 
+2019-10-04 22:07:49,391 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2019-10-04 22:07:49,391 INFO  [Log] X 
+2019-10-04 22:07:49,391 INFO  [Log] X 
+2019-10-04 22:07:49,391 INFO  [Log] X 
+2019-10-04 22:07:49,391 INFO  [Log] X 
+2019-10-04 22:07:51,238 INFO  [Log] **************************************************************************************** 
+2019-10-04 22:07:51,238 INFO  [Log] **************************************************************************************** 
+2019-10-04 22:07:51,239 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Test Case Name:TC_02_UserLoginBuyProduct       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-10-04 22:07:51,239 INFO  [Log] **************************************************************************************** 
+2019-10-04 22:07:51,239 INFO  [Log] **************************************************************************************** 
+2019-10-04 22:07:51,320 INFO  [Log] Excel sheet opened 
+2019-10-04 22:07:51,320 INFO  [Log] Total number of Row used return as < 2 >. 
+2019-10-04 22:07:55,251 INFO  [Log] New driver instantiated 
+2019-10-04 22:07:56,401 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
+2019-10-04 22:08:12,433 INFO  [Log] Web application launched successfully 
+2019-10-04 22:08:12,436 INFO  [Log] Login Test started::TC_02_UserLoginBuyProduct 
+2019-10-04 22:08:48,529 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2019-10-04 22:08:48,529 INFO  [Log] X 
+2019-10-04 22:08:48,529 INFO  [Log] X 
+2019-10-04 22:08:48,529 INFO  [Log] X 
+2019-10-04 22:08:48,529 INFO  [Log] X 
+2019-10-04 22:10:15,862 INFO  [Log] **************************************************************************************** 
+2019-10-04 22:10:15,862 INFO  [Log] **************************************************************************************** 
+2019-10-04 22:10:15,862 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Test Case Name:TC_01_UserRegistration       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-10-04 22:10:15,863 INFO  [Log] **************************************************************************************** 
+2019-10-04 22:10:15,863 INFO  [Log] **************************************************************************************** 
+2019-10-04 22:10:16,718 INFO  [Log] Excel sheet opened 
+2019-10-04 22:10:16,718 INFO  [Log] Total number of Row used return as < 2 >. 
+2019-10-04 22:10:21,929 INFO  [Log] New driver instantiated 
+2019-10-04 22:10:23,085 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
+2019-10-04 22:10:46,458 INFO  [Log] Web application launched successfully 
+2019-10-04 22:10:46,506 INFO  [Log]  User Registration Tests started 
+2019-10-04 22:11:01,272 INFO  [Log] User Registration Sucess 
+2019-10-04 22:11:01,463 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2019-10-04 22:11:01,463 INFO  [Log] X 
+2019-10-04 22:11:01,463 INFO  [Log] X 
+2019-10-04 22:11:01,463 INFO  [Log] X 
+2019-10-04 22:11:01,463 INFO  [Log] X 
+2019-10-04 22:11:02,458 INFO  [Log] **************************************************************************************** 
+2019-10-04 22:11:02,458 INFO  [Log] **************************************************************************************** 
+2019-10-04 22:11:02,458 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Test Case Name:TC_02_UserLoginBuyProduct       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-10-04 22:11:02,458 INFO  [Log] **************************************************************************************** 
+2019-10-04 22:11:02,459 INFO  [Log] **************************************************************************************** 
+2019-10-04 22:11:02,536 INFO  [Log] Excel sheet opened 
+2019-10-04 22:11:02,536 INFO  [Log] Total number of Row used return as < 2 >. 
+2019-10-04 22:11:05,843 INFO  [Log] New driver instantiated 
+2019-10-04 22:11:07,032 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
+2019-10-04 22:11:16,492 INFO  [Log] Web application launched successfully 
+2019-10-04 22:11:16,496 INFO  [Log] Login Test started::TC_02_UserLoginBuyProduct 
+2019-10-04 22:11:49,025 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2019-10-04 22:11:49,025 INFO  [Log] X 
+2019-10-04 22:11:49,025 INFO  [Log] X 
+2019-10-04 22:11:49,025 INFO  [Log] X 
+2019-10-04 22:11:49,025 INFO  [Log] X 
+2019-10-04 22:51:37,085 INFO  [Log] **************************************************************************************** 
+2019-10-04 22:51:37,108 INFO  [Log] **************************************************************************************** 
+2019-10-04 22:51:37,108 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Test Case Name:TC_01_UserRegistration       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-10-04 22:51:37,108 INFO  [Log] **************************************************************************************** 
+2019-10-04 22:51:37,108 INFO  [Log] **************************************************************************************** 
+2019-10-04 22:51:38,128 INFO  [Log] Excel sheet opened 
+2019-10-04 22:51:38,128 INFO  [Log] Total number of Row used return as < 2 >. 
+2019-10-04 22:51:56,092 INFO  [Log] New driver instantiated 
+2019-10-04 22:51:57,365 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
+2019-10-04 22:52:20,332 INFO  [Log] Web application launched successfully 
+2019-10-04 22:52:20,473 INFO  [Log]  User Registration Tests started 
+2019-10-04 22:52:34,239 INFO  [Log] User Registration Completed Successfully 
+2019-10-04 22:52:34,242 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2019-10-04 22:52:34,242 INFO  [Log] X 
+2019-10-04 22:52:34,242 INFO  [Log] X 
+2019-10-04 22:52:34,242 INFO  [Log] X 
+2019-10-04 22:52:34,242 INFO  [Log] X 
+2019-10-04 22:52:35,122 INFO  [Log] **************************************************************************************** 
+2019-10-04 22:52:35,122 INFO  [Log] **************************************************************************************** 
+2019-10-04 22:52:35,122 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Test Case Name:TC_02_UserLoginBuyProduct       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-10-04 22:52:35,122 INFO  [Log] **************************************************************************************** 
+2019-10-04 22:52:35,122 INFO  [Log] **************************************************************************************** 
+2019-10-04 22:52:35,196 INFO  [Log] Excel sheet opened 
+2019-10-04 22:52:35,196 INFO  [Log] Total number of Row used return as < 2 >. 
+2019-10-04 22:52:38,608 INFO  [Log] New driver instantiated 
+2019-10-04 22:52:39,769 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
+2019-10-04 22:52:53,864 INFO  [Log] Web application launched successfully 
+2019-10-04 22:52:53,866 INFO  [Log] Login Test started::TC_02_UserLoginBuyProduct 
+2019-10-04 22:53:18,327 INFO  [Log] User Ordered the Product Successfully 
+2019-10-04 22:53:18,328 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2019-10-04 22:53:18,328 INFO  [Log] X 
+2019-10-04 22:53:18,328 INFO  [Log] X 
+2019-10-04 22:53:18,328 INFO  [Log] X 
+2019-10-04 22:53:18,329 INFO  [Log] X 
+2019-10-04 23:01:21,642 INFO  [Log] **************************************************************************************** 
+2019-10-04 23:01:21,666 INFO  [Log] **************************************************************************************** 
+2019-10-04 23:01:21,666 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Test Case Name:TC_01_UserRegistration       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-10-04 23:01:21,666 INFO  [Log] **************************************************************************************** 
+2019-10-04 23:01:21,666 INFO  [Log] **************************************************************************************** 
+2019-10-04 23:01:22,359 INFO  [Log] Excel sheet opened 
+2019-10-04 23:01:22,359 INFO  [Log] Total number of Row used return as < 2 >. 
+2019-10-04 23:01:39,745 INFO  [Log] New driver instantiated 
+2019-10-04 23:01:43,980 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
+2019-10-04 23:02:10,622 INFO  [Log] Web application launched successfully 
+2019-10-04 23:02:10,783 INFO  [Log]  User Registration Tests started 
+2019-10-04 23:02:24,106 INFO  [Log] User Registration Completed Successfully 
+2019-10-04 23:02:24,111 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2019-10-04 23:02:24,111 INFO  [Log] X 
+2019-10-04 23:02:24,112 INFO  [Log] X 
+2019-10-04 23:02:24,113 INFO  [Log] X 
+2019-10-04 23:02:24,114 INFO  [Log] X 
+2019-10-04 23:02:24,978 INFO  [Log] **************************************************************************************** 
+2019-10-04 23:02:24,979 INFO  [Log] **************************************************************************************** 
+2019-10-04 23:02:24,979 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Test Case Name:TC_02_UserLoginBuyProduct       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-10-04 23:02:24,979 INFO  [Log] **************************************************************************************** 
+2019-10-04 23:02:24,979 INFO  [Log] **************************************************************************************** 
+2019-10-04 23:02:25,023 INFO  [Log] Excel sheet opened 
+2019-10-04 23:02:25,023 INFO  [Log] Total number of Row used return as < 2 >. 
+2019-10-04 23:02:28,271 INFO  [Log] New driver instantiated 
+2019-10-04 23:02:29,400 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
+2019-10-04 23:02:36,246 INFO  [Log] Web application launched successfully 
+2019-10-04 23:02:36,248 INFO  [Log] Login Test started::TC_02_UserLoginBuyProduct 
+2019-10-04 23:02:45,855 INFO  [Log] User Login Successfully 
+2019-10-04 23:03:01,173 INFO  [Log] User Ordered the Product Successfully 
+2019-10-04 23:03:01,175 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2019-10-04 23:03:01,175 INFO  [Log] X 
+2019-10-04 23:03:01,175 INFO  [Log] X 
+2019-10-04 23:03:01,175 INFO  [Log] X 
+2019-10-04 23:03:01,175 INFO  [Log] X 
+2019-10-04 23:10:49,384 INFO  [Log] **************************************************************************************** 
+2019-10-04 23:10:49,385 INFO  [Log] **************************************************************************************** 
+2019-10-04 23:10:49,385 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Test Case Name:TC_01_UserRegistration       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-10-04 23:10:49,385 INFO  [Log] **************************************************************************************** 
+2019-10-04 23:10:49,385 INFO  [Log] **************************************************************************************** 
+2019-10-04 23:10:50,006 INFO  [Log] Excel sheet opened 
+2019-10-04 23:10:50,007 INFO  [Log] Total number of Row used return as < 2 >. 
+2019-10-04 23:10:54,925 INFO  [Log] New driver instantiated 
+2019-10-04 23:10:56,069 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
+2019-10-04 23:11:03,238 INFO  [Log] Web application launched successfully 
+2019-10-04 23:11:03,273 INFO  [Log]  User Registration Tests started 
+2019-10-04 23:11:14,877 INFO  [Log] User Registration Completed Successfully 
+2019-10-04 23:11:14,880 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2019-10-04 23:11:14,880 INFO  [Log] X 
+2019-10-04 23:11:14,880 INFO  [Log] X 
+2019-10-04 23:11:14,880 INFO  [Log] X 
+2019-10-04 23:11:14,880 INFO  [Log] X 
+2019-10-04 23:13:14,105 INFO  [Log] **************************************************************************************** 
+2019-10-04 23:13:14,105 INFO  [Log] **************************************************************************************** 
+2019-10-04 23:13:14,105 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Test Case Name:TC_01_UserRegistration       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-10-04 23:13:14,105 INFO  [Log] **************************************************************************************** 
+2019-10-04 23:13:14,105 INFO  [Log] **************************************************************************************** 
+2019-10-04 23:13:14,790 INFO  [Log] Excel sheet opened 
+2019-10-04 23:13:14,791 INFO  [Log] Total number of Row used return as < 2 >. 
+2019-10-04 23:13:18,984 INFO  [Log] New driver instantiated 
+2019-10-04 23:13:20,153 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
+2019-10-04 23:13:29,339 INFO  [Log] Web application launched successfully 
+2019-10-04 23:13:29,382 INFO  [Log]  User Registration Tests started 
+2019-10-04 23:13:40,342 INFO  [Log] User Registration Completed Successfully 
+2019-10-04 23:13:40,344 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2019-10-04 23:13:40,344 INFO  [Log] X 
+2019-10-04 23:13:40,344 INFO  [Log] X 
+2019-10-04 23:13:40,344 INFO  [Log] X 
+2019-10-04 23:13:40,344 INFO  [Log] X 
+2019-10-04 23:16:17,250 INFO  [Log] **************************************************************************************** 
+2019-10-04 23:16:17,251 INFO  [Log] **************************************************************************************** 
+2019-10-04 23:16:17,251 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Test Case Name:TC_01_UserRegistration       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-10-04 23:16:17,251 INFO  [Log] **************************************************************************************** 
+2019-10-04 23:16:17,251 INFO  [Log] **************************************************************************************** 
+2019-10-04 23:16:17,772 INFO  [Log] Excel sheet opened 
+2019-10-04 23:16:17,772 INFO  [Log] Total number of Row used return as < 2 >. 
+2019-10-04 23:16:23,194 INFO  [Log] New driver instantiated 
+2019-10-04 23:16:24,372 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
+2019-10-04 23:16:32,452 INFO  [Log] Web application launched successfully 
+2019-10-04 23:16:32,483 INFO  [Log]  User Registration Tests started 
+2019-10-04 23:16:42,924 INFO  [Log] User Registration Completed Successfully 
+2019-10-04 23:16:42,927 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2019-10-04 23:16:42,927 INFO  [Log] X 
+2019-10-04 23:16:42,927 INFO  [Log] X 
+2019-10-04 23:16:42,927 INFO  [Log] X 
+2019-10-04 23:16:42,927 INFO  [Log] X 
+2019-10-04 23:16:43,693 INFO  [Log] **************************************************************************************** 
+2019-10-04 23:16:43,693 INFO  [Log] **************************************************************************************** 
+2019-10-04 23:16:43,693 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Test Case Name:TC_02_UserLoginBuyProduct       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-10-04 23:16:43,693 INFO  [Log] **************************************************************************************** 
+2019-10-04 23:16:43,693 INFO  [Log] **************************************************************************************** 
+2019-10-04 23:16:43,782 INFO  [Log] Excel sheet opened 
+2019-10-04 23:16:43,782 INFO  [Log] Total number of Row used return as < 2 >. 
+2019-10-04 23:16:47,181 INFO  [Log] New driver instantiated 
+2019-10-04 23:16:48,315 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
+2019-10-04 23:16:55,613 INFO  [Log] Web application launched successfully 
+2019-10-04 23:16:55,615 INFO  [Log] Login Test started::TC_02_UserLoginBuyProduct 
+2019-10-04 23:17:04,178 INFO  [Log] User Login Successfully 
+2019-10-04 23:17:21,023 INFO  [Log] User Ordered the Product Successfully 
+2019-10-04 23:17:21,031 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2019-10-04 23:17:21,031 INFO  [Log] X 
+2019-10-04 23:17:21,031 INFO  [Log] X 
+2019-10-04 23:17:21,031 INFO  [Log] X 
+2019-10-04 23:17:21,032 INFO  [Log] X 
+2019-10-04 23:19:38,133 INFO  [Log] **************************************************************************************** 
+2019-10-04 23:19:38,133 INFO  [Log] **************************************************************************************** 
+2019-10-04 23:19:38,133 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Test Case Name:TC_01_UserRegistration       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-10-04 23:19:38,133 INFO  [Log] **************************************************************************************** 
+2019-10-04 23:19:38,133 INFO  [Log] **************************************************************************************** 
+2019-10-04 23:19:38,845 INFO  [Log] Excel sheet opened 
+2019-10-04 23:19:38,845 INFO  [Log] Total number of Row used return as < 2 >. 
+2019-10-04 23:19:43,147 INFO  [Log] New driver instantiated 
+2019-10-04 23:19:44,301 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
+2019-10-04 23:19:52,277 INFO  [Log] Web application launched successfully 
+2019-10-04 23:19:52,309 INFO  [Log]  User Registration Tests started 
+2019-10-04 23:20:02,838 INFO  [Log] User Registration Completed Successfully 
+2019-10-04 23:20:02,841 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2019-10-04 23:20:02,841 INFO  [Log] X 
+2019-10-04 23:20:02,841 INFO  [Log] X 
+2019-10-04 23:20:02,841 INFO  [Log] X 
+2019-10-04 23:20:02,841 INFO  [Log] X 
+2019-10-04 23:20:05,563 INFO  [Log] **************************************************************************************** 
+2019-10-04 23:20:05,563 INFO  [Log] **************************************************************************************** 
+2019-10-04 23:20:05,563 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Test Case Name:TC_02_UserLoginBuyProduct       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-10-04 23:20:05,563 INFO  [Log] **************************************************************************************** 
+2019-10-04 23:20:05,563 INFO  [Log] **************************************************************************************** 
+2019-10-04 23:20:05,634 INFO  [Log] Excel sheet opened 
+2019-10-04 23:20:05,634 INFO  [Log] Total number of Row used return as < 2 >. 
+2019-10-04 23:20:08,960 INFO  [Log] New driver instantiated 
+2019-10-04 23:20:10,107 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
+2019-10-04 23:20:17,565 INFO  [Log] Web application launched successfully 
+2019-10-04 23:20:17,568 INFO  [Log] Login Test started::TC_02_UserLoginBuyProduct 
+2019-10-04 23:20:26,651 INFO  [Log] User Login Successfully 
+2019-10-04 23:20:43,398 INFO  [Log] User Ordered the Product Successfully 
+2019-10-04 23:20:43,400 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2019-10-04 23:20:43,400 INFO  [Log] X 
+2019-10-04 23:20:43,400 INFO  [Log] X 
+2019-10-04 23:20:43,400 INFO  [Log] X 
+2019-10-04 23:20:43,400 INFO  [Log] X 
+2019-10-04 23:23:36,427 INFO  [Log] **************************************************************************************** 
+2019-10-04 23:23:36,427 INFO  [Log] **************************************************************************************** 
+2019-10-04 23:23:36,427 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Test Case Name:TC_01_UserRegistration       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-10-04 23:23:36,427 INFO  [Log] **************************************************************************************** 
+2019-10-04 23:23:36,427 INFO  [Log] **************************************************************************************** 
+2019-10-04 23:23:37,024 INFO  [Log] Excel sheet opened 
+2019-10-04 23:23:37,024 INFO  [Log] Total number of Row used return as < 2 >. 
+2019-10-04 23:23:41,962 INFO  [Log] New driver instantiated 
+2019-10-04 23:23:43,137 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
+2019-10-04 23:23:51,632 INFO  [Log] Web application launched successfully 
+2019-10-04 23:23:51,665 INFO  [Log]  User Registration Tests started 
+2019-10-04 23:24:04,475 INFO  [Log] User Registration Completed Successfully 
+2019-10-04 23:24:04,477 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2019-10-04 23:24:04,477 INFO  [Log] X 
+2019-10-04 23:24:04,477 INFO  [Log] X 
+2019-10-04 23:24:04,477 INFO  [Log] X 
+2019-10-04 23:24:04,477 INFO  [Log] X 
+2019-10-04 23:24:05,281 INFO  [Log] **************************************************************************************** 
+2019-10-04 23:24:05,281 INFO  [Log] **************************************************************************************** 
+2019-10-04 23:24:05,281 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Test Case Name:TC_02_UserLoginBuyProduct       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-10-04 23:24:05,281 INFO  [Log] **************************************************************************************** 
+2019-10-04 23:24:05,281 INFO  [Log] **************************************************************************************** 
+2019-10-04 23:24:05,331 INFO  [Log] Excel sheet opened 
+2019-10-04 23:24:05,331 INFO  [Log] Total number of Row used return as < 2 >. 
+2019-10-04 23:24:08,454 INFO  [Log] New driver instantiated 
+2019-10-04 23:24:09,608 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
+2019-10-04 23:24:19,851 INFO  [Log] Web application launched successfully 
+2019-10-04 23:24:19,854 INFO  [Log] Login Test started::TC_02_UserLoginBuyProduct 
+2019-10-04 23:24:29,766 INFO  [Log] User Login Successfully 
+2019-10-04 23:24:51,028 INFO  [Log] User Ordered the Product Successfully 
+2019-10-04 23:24:51,030 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2019-10-04 23:24:51,031 INFO  [Log] X 
+2019-10-04 23:24:51,031 INFO  [Log] X 
+2019-10-04 23:24:51,031 INFO  [Log] X 
+2019-10-04 23:24:51,031 INFO  [Log] X 

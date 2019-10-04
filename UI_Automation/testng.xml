@@ -5,8 +5,8 @@
 
 	<test name="uitests">
 		<classes>
-			<class name="com.altayer.web.tests.TC_01_UserRegistration" />
-			<class name="com.altayer.web.tests.TC_02_UserLogin" />
+			<class name="com.eLabelz.web.tests.TC_01_UserRegistration" />
+			<class name="com.eLabelz.web.tests.TC_02_UserLoginBuyProduct" />
 			
 		</classes>
 	</test>
