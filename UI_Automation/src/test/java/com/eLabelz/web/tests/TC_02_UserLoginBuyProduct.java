@@ -50,7 +50,7 @@ public class TC_02_UserLoginBuyProduct extends BaseClass {
 	public void userLogin() throws Exception {
 		try{
 			
-			testLogger.log(Status.INFO, "User Login and Buy Product Test Started"+this.getClass().getName());
+			testLogger.log(Status.INFO, "User Login and Buy Product Test Started::"+sTestCaseName);
 			Log.info("Login Test started::" + sTestCaseName);
 			Reporter.log("Login Test started::" + sTestCaseName);
 

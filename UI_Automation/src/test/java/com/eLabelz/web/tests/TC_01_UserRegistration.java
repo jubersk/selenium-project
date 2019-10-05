@@ -52,7 +52,7 @@ public class TC_01_UserRegistration extends BaseClass{
 	public void userAccountRegistration() throws Exception {
 		try{
 
-			testLogger.log(Status.INFO, "User Registration Test Started"+this.getClass().getName());
+			testLogger.log(Status.INFO, "User Registration Test Started::"+sTestCaseName);
 			Log.info(" User Registration Tests started");
 			Reporter.log(" User Registration Tests started");
 			//Tests Actual Steps
@@ -154,7 +154,7 @@ public class TC_01_UserRegistration extends BaseClass{
 		if(isElementPresent(driver,By.cssSelector(".account"))){
 			Log.info("User Registration Completed Successfully");
 			Reporter.log("User Registration Completed Successfully");
-			testLogger.log(Status.FAIL, "User Registration Completed Successfully");
+			testLogger.log(Status.PASS, "User Registration Completed Successfully");
 
 		}
 		else{
